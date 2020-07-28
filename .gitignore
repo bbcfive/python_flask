@@ -1,0 +1,4 @@
+venv
+.svn
+.vscode
+__pycache__
